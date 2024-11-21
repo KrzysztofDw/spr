@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl-PL">
+<html>
+<head>
+ <meta charset="utf-8">
+ <title>Poczta_Dworak </title>
+</head>
+
+<body bgcolor=" grey"></body>
+   <body>
+<h1><p>Tutaj bedzie Poczta</p></h1>
+<br>
+<a href ="mailto:krzdwor12@edu.gdansk.pl"><img src="poczta.jpg" border=0 width=70 height=70><br>22:56 21.11.2024POCZTA DO MNIE</a>
+<br>
+<h1><a href="menu_dworak.html">MENU</a></h1>
+<br>
+
+   </body>
+</html>
